@@ -1,5 +1,5 @@
 # jhon
 
-## editing the file
+# editing the file
 
- Es un archivo Markdown en este repositorio
+Es un archivo Markdown en este repositorio
